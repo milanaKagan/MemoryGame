@@ -34,7 +34,7 @@ const $audioTag = document.getElementById('audio'),
     const soundsUrls = {
         match: './src/match.mp3',
         unmatch: './src/unmatch.mp3',
-        win: './src/win.mp3',
+        win: './src/Win.mp3',
         loose: './src/gameover.mp3'};
 
 let timerInterval,
